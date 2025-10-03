@@ -5,12 +5,7 @@ This project focuses on analyzing and visualizing the regional sales across the 
 The repository directory structure is as follows:
 
 Consumer-Goods-Sales-Analysis
-├─ 01_SOURCE
-├─ 02_ETL
-├─ 03_DATA
-├─ 04_ANALYSIS
-├─ 05_DASHBOARD
-├─ 06_RESOURCES
+
 
 The type of content present in the directories is as follows:
 
